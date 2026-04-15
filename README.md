@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on NextScrimz website.<br>I am looking to collaborate on any machine learning project.<br>I'm currently learning python and its frameworks.
+I'm currently working on Inchat application.<br>I am looking to collaborate on any machine learning project.<br>I'm currently learning python and its frameworks.
 
 
 ## 🌐 Socials:
